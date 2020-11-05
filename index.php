@@ -1,3 +1,4 @@
 <?php
-	echo "В этом файле будет использоваться библиотека";
+	require_once("viewer.inc.php");
+	Viewer::view();
 ?>
