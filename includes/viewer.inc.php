@@ -1,0 +1,5 @@
+<?
+ 	function view() {
+		foreach($row ...	
+	} 
+
